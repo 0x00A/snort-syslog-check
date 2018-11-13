@@ -1,1 +1,1 @@
-# Snort-Syslog-Checker
+# Snort Syslog Check
